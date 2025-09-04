@@ -1,0 +1,46 @@
+{"method": "GET", "url": "http://127.0.0.1:8000/", "client_ip": "127.0.0.1", "status_code": 404, "timestamp": "2025-09-04T08:47:38.531797+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/favicon.ico", "client_ip": "127.0.0.1", "status_code": 404, "timestamp": "2025-09-04T08:47:38.569211+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/", "client_ip": "127.0.0.1", "status_code": 404, "timestamp": "2025-09-04T08:52:21.531741+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/", "client_ip": "127.0.0.1", "status_code": 404, "timestamp": "2025-09-04T08:52:22.205444+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/", "client_ip": "127.0.0.1", "status_code": 404, "timestamp": "2025-09-04T08:52:22.370725+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/", "client_ip": "127.0.0.1", "status_code": 404, "timestamp": "2025-09-04T08:52:22.541272+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/", "client_ip": "127.0.0.1", "status_code": 404, "timestamp": "2025-09-04T08:59:27.161924+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/favicon.ico", "client_ip": "127.0.0.1", "status_code": 404, "timestamp": "2025-09-04T08:59:27.209849+00:00"}
+{"event": "create", "shortcode": "abc123", "url": "https://www.google.com", "expiry": "2025-09-04 14:34:39.159167", "timestamp": "2025-09-04T08:59:39.159167+00:00"}
+{"method": "POST", "url": "http://127.0.0.1:8000/shorturls", "client_ip": "127.0.0.1", "status_code": 200, "timestamp": "2025-09-04T08:59:39.159167+00:00"}
+{"event": "click", "shortcode": "abc123", "time": "2025-09-04T14:30:39.233590", "timestamp": "2025-09-04T09:00:39.233590+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/abc123", "client_ip": "127.0.0.1", "status_code": 307, "timestamp": "2025-09-04T09:00:39.235594+00:00"}
+{"event": "click", "shortcode": "abc123", "time": "2025-09-04T14:32:39.370975", "timestamp": "2025-09-04T09:02:39.370975+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/abc123", "client_ip": "127.0.0.1", "status_code": 307, "timestamp": "2025-09-04T09:02:39.372967+00:00"}
+{"event": "create", "shortcode": "steam", "url": "https://www.steam.com", "expiry": "2025-09-04 14:38:10.884364", "timestamp": "2025-09-04T09:03:10.884364+00:00"}
+{"method": "POST", "url": "http://127.0.0.1:8000/shorturls", "client_ip": "127.0.0.1", "status_code": 200, "timestamp": "2025-09-04T09:03:10.885350+00:00"}
+{"event": "click", "shortcode": "steam", "time": "2025-09-04T14:33:17.065430", "timestamp": "2025-09-04T09:03:17.066428+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/steam", "client_ip": "127.0.0.1", "status_code": 307, "timestamp": "2025-09-04T09:03:17.066428+00:00"}
+{"event": "create", "shortcode": "rstar", "url": "https://www.rockstargames.com", "expiry": "2025-09-04 14:39:02.680294", "timestamp": "2025-09-04T09:04:02.680294+00:00"}
+{"method": "POST", "url": "http://127.0.0.1:8000/shorturls", "client_ip": "127.0.0.1", "status_code": 200, "timestamp": "2025-09-04T09:04:02.681513+00:00"}
+{"event": "click", "shortcode": "rstar", "time": "2025-09-04T14:34:15.998210", "timestamp": "2025-09-04T09:04:15.998210+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/rstar", "client_ip": "127.0.0.1", "status_code": 307, "timestamp": "2025-09-04T09:04:15.999211+00:00"}
+{"event": "create", "shortcode": "naukri", "url": "https://www.naukri.com/", "expiry": "2025-09-04 14:40:26.527551", "timestamp": "2025-09-04T09:05:26.527551+00:00"}
+{"method": "POST", "url": "http://127.0.0.1:8000/shorturls", "client_ip": "127.0.0.1", "status_code": 200, "timestamp": "2025-09-04T09:05:26.531858+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/", "client_ip": "127.0.0.1", "status_code": 404, "timestamp": "2025-09-04T09:05:48.119753+00:00"}
+{"event": "click", "shortcode": "naukri", "time": "2025-09-04T14:35:52.377391", "timestamp": "2025-09-04T09:05:52.377391+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/naukri", "client_ip": "127.0.0.1", "status_code": 307, "timestamp": "2025-09-04T09:05:52.377391+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/", "client_ip": "127.0.0.1", "status_code": 404, "timestamp": "2025-09-04T09:16:46.533621+00:00"}
+{"event": "create", "shortcode": "naukri", "url": "https://www.naukri.com/", "expiry": "2025-09-04 14:51:59.384139", "timestamp": "2025-09-04T09:16:59.384139+00:00"}
+{"method": "POST", "url": "http://127.0.0.1:8000/shorturls", "client_ip": "127.0.0.1", "status_code": 200, "timestamp": "2025-09-04T09:16:59.384139+00:00"}
+{"method": "POST", "url": "http://127.0.0.1:8000/shorturls", "client_ip": "127.0.0.1", "status_code": 400, "timestamp": "2025-09-04T09:17:11.697297+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/", "client_ip": "127.0.0.1", "status_code": 404, "timestamp": "2025-09-04T09:17:33.058670+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/", "client_ip": "127.0.0.1", "status_code": 404, "timestamp": "2025-09-04T09:17:39.844186+00:00"}
+{"method": "POST", "url": "http://127.0.0.1:8000/shorturls", "client_ip": "127.0.0.1", "status_code": 400, "timestamp": "2025-09-04T09:17:44.209510+00:00"}
+{"event": "create", "shortcode": "naukrsi", "url": "https://www.naukris.com/", "expiry": "2025-09-04 14:52:56.503513", "timestamp": "2025-09-04T09:17:56.507511+00:00"}
+{"method": "POST", "url": "http://127.0.0.1:8000/shorturls", "client_ip": "127.0.0.1", "status_code": 200, "timestamp": "2025-09-04T09:17:56.509514+00:00"}
+{"event": "create", "shortcode": "yt", "url": "https://www.youtube.com/", "expiry": "2025-09-04 14:53:25.499003", "timestamp": "2025-09-04T09:18:25.500007+00:00"}
+{"method": "POST", "url": "http://127.0.0.1:8000/shorturls", "client_ip": "127.0.0.1", "status_code": 200, "timestamp": "2025-09-04T09:18:25.503885+00:00"}
+{"event": "create", "shortcode": "yt", "url": "https://www.youtube.com/", "expiry": "2025-09-04 14:53:57.563769", "timestamp": "2025-09-04T09:18:57.563769+00:00"}
+{"method": "POST", "url": "http://127.0.0.1:8000/shorturls", "client_ip": "127.0.0.1", "status_code": 200, "timestamp": "2025-09-04T09:18:57.563769+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/", "client_ip": "127.0.0.1", "status_code": 404, "timestamp": "2025-09-04T09:19:15.515924+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/yt", "client_ip": "127.0.0.1", "status_code": 404, "timestamp": "2025-09-04T09:19:21.647314+00:00"}
+{"event": "create", "shortcode": "yt", "url": "https://www.youtube.com/", "expiry": "2025-09-04 14:54:25.539578", "timestamp": "2025-09-04T09:19:25.539578+00:00"}
+{"method": "POST", "url": "http://127.0.0.1:8000/shorturls", "client_ip": "127.0.0.1", "status_code": 200, "timestamp": "2025-09-04T09:19:25.542579+00:00"}
+{"event": "click", "shortcode": "yt", "time": "2025-09-04T14:49:29.326682", "timestamp": "2025-09-04T09:19:29.326682+00:00"}
+{"method": "GET", "url": "http://127.0.0.1:8000/yt", "client_ip": "127.0.0.1", "status_code": 307, "timestamp": "2025-09-04T09:19:29.327681+00:00"}
